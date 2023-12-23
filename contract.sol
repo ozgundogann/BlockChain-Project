@@ -3,7 +3,7 @@ pragma solidity >= 0.8.2;
 
 contract main {
 
-    int internal product_count = 0;
+    int public product_count = 0;
 
     struct Product {
         string product_name;
