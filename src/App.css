@@ -40,47 +40,64 @@
 /* App.css */
 
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
 }
 
 h2 {
-    color: #333;
-    text-align: center;
-    margin-top: 50px;
+  color: #333;
+  text-align: center;
+  margin-top: 50px;
 }
 
 form {
-    width: 500px;
-    margin: 30px auto;
-    background-color: #fff;
-    padding: 20px;
-    border: 1px solid #ccc;
-    box-shadow: 0 0 10px #ccc;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 900px;
+  margin: 30px auto;
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px #ccc;
+}
+
+.input-field {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
 }
 
 input[type="text"] {
-    width: 95%;
-    padding: 10px;
-    margin: 10px 0;
-    border: 1px solid #ccc;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
 }
 
 input[type="file"] {
-    margin: 10px 0;
+  margin: 10px 0;
 }
 
 input[type="submit"] {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 20px;
-    border: none;
-    cursor: pointer;
+  background-color: #333;
+  color: #fff;
+  padding: 15px 30px; /* padding değerlerini artırarak butonu büyüttük */
+  border: none;
+  cursor: pointer;
+  font-size: 18px; /* font boyutunu artırarak buton metnini büyüttük */
+  align-self: flex-end;
 }
 
-    input[type="submit"]:hover {
-        background-color: #444;
-    }
+input[type="submit"]:hover {
+  background-color: #444;
+}
 
+
+#preview {
+  display: none;
+  width: 200px;
+  height: 200px;
+}
