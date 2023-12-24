@@ -1,0 +1,105 @@
+Product Name: Iphone 14
+Product Serial: 111a586
+MAC Address: MAC
+Motherboard Serial: 14
+
+Product Name: Iphone 11
+Product Serial: 111a586sdawasd
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 10
+Product Serial: 111a586sdawasd
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 10
+Product Serial: 111a586sdawasd
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 10
+Product Serial: 111a586sdawasd
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 10
+Product Serial: 111a586sdawasd
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 10
+Product Serial: 111a586sdawasd
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 5
+Product Serial: 111a586sdawasd
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 5
+Product Serial: 111a586sdawasd
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 4
+Product Serial: 111a586sdawasd
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 4
+Product Serial: 111a586sdawasd
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 4
+Product Serial: 111a586sdawasd
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 4
+Product Serial: 111a586sdawasd
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 4
+Product Serial: 111a586sdawasd
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 4
+Product Serial: 111a586sdawasd
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 4
+Product Serial: 111a586sdawasd
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 4
+Motherboard Serial: ad
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 4
+Motherboard Serial: ad
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 4
+Motherboard Serial: ad
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: Iphone 5
+Motherboard Serial: ad
+MAC Address: MAC
+Motherboard Serial: ad
+
+Product Name: aaa
+Motherboard Serial: 14
+MAC Address: MAC
+Motherboard Serial: 14
+
