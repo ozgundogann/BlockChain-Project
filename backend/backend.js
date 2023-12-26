@@ -36,7 +36,7 @@ app.post('/api/post', (req,res) => {
     let data = req.body
 
     // convert data to string
-    let dataString = "Product Name: " + data.productName + "\nMotherboard Serial: " + data.motherboardSerial  + "\nMAC Address: " + data.macAddress + "\nMotherboard Serial: " + data.motherboardSerial +  "\n\n";
+    let dataString = "Product Name: " + data.productName + "\nMotherboard Serial: " + data.motherboardSerial + "\nMAC Address: " + data.macAddress + "\nProduct Serial: " + data.productSerial +  "\n\n";
     // Use the 'a' parameter to add data to the file or create it if the file does not exist
     fs.writeFile('Product DataBase.txt', dataString, { flag: 'a+' }, err => {
         if (err) {

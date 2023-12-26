@@ -125,7 +125,7 @@ function previewImage() {
         productSerial : document.getElementById('pserial').value
     }
       
-    //await contract.methods.register_product(submitObject.productName, submitObject.motherboardSerial, submitObject.macAddress, submitObject.productSerial).send({ from: accounts[0] });
+    await contract.methods.register_product(submitObject.productName, submitObject.motherboardSerial, submitObject.macAddress, submitObject.productSerial).send({ from: accounts[0] });
     
 
 
@@ -162,43 +162,7 @@ function previewImage() {
         });
 
     }
-
-
-    // Create a string of the form data
-    // let formData = 
-    //     'Product Name: ' + productName + '\n' +
-    //     'Product Serial: ' + productSerial + '\n' +
-    //     'MAC Address: ' + macAddress + '\n' +
-    //     'Motherboard Serial: ' + motherboardSerial + '\n' +
-    //     'Product Image: ' + productImage;
-
-
-    // // Create a blob from the form data string
-    // let blob = new Blob([formData], {type: "text/plain;charset=utf-8"});
-
-    // // Create a link element
-    // let url = URL.createObjectURL(blob);
-    // let link = document.createElement('a');
-    // link.href = url;
-
-    // // Set the download attribute of the link
-    // link.download = 'product_info.txt';
-
-    // // Trigger the download by programmatically clicking the link
-    // link.click();
 }
-
-/*
-const fs = require('fs');
-
-let data = 'Hello, World!';
-
-fs.writeFile('myFile.txt', data, (err) => {
-  if (err) throw err;
-  console.log('Data written to file');
-});
-*/
-
 
 
 function App() {
